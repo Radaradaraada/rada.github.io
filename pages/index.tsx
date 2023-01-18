@@ -12,7 +12,7 @@ export default function Home() {
       {socials.display && <Section name="Socials" items={socials.items} />}
       {designs.display && <Section name="Designs" items={designs.items} />}
       {gaming_profiles.display && <Section name="Gaming" items={gaming_profiles.items} />}
-      {wallets.display && <Section name="Wallets" items={wallets.items} />}
+      {wallets.display && <Section name="Payment" items={wallets.items} />}
       {qna.display && <QNA {...qna} />}
     </Profile>
   )
