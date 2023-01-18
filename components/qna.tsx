@@ -39,7 +39,7 @@ export default function QNA({ GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY_ID })
         onClick={load}
         className="flex w-full cursor-pointer flex-col items-center justify-center space-y-4 rounded-2xl bg-white p-6 font-semibold"
       >
-        <span>Ask a question</span>
+        <span>Ask us Via GITHUB!</span>
         {enableLoadComments && LoadComments()}
       </div>
     </section>
