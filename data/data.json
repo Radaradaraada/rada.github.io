@@ -62,8 +62,8 @@
   },
   "qna": {
     "display": true,
-    "GISCUS_REPO":"",
-    "GISCUS_REPO_ID":"",
-    "GISCUS_CATEGORY_ID":""
+    "GISCUS_REPO":"https://giscus.app/client.js",
+    "GISCUS_REPO_ID":"R_kgDOIy5mLw",
+    "GISCUS_CATEGORY_ID":"DIC_kwDOIy5mL84CTqOB"
   }
 }
