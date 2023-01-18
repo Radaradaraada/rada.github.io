@@ -12,7 +12,7 @@
   "website": "",
   "site_url": "",
   "buttons": {
-    "display": true,
+    "display": false,
     "items": [{"label": "Message"},{"label": "Follow"},{"label": "Posts"}]
   },
   "footer": {
