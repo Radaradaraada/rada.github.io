@@ -9,7 +9,7 @@
   },
   "background": "#9edcf7",
   "location": "Laredo, Tx",
-  "website": "",
+  "website": "",f
   "site_url": "",
   "buttons": {
     "display": false,
@@ -19,17 +19,17 @@
     "display": true,
     "text": "Make sure to Follow us!"
   },
+  "socials": {
+    "display": true,
+    "items": [
+      { "label": "Facebook", "url": "https://www.facebook.com/profile.php?id=100087162214726" }
+    ]
+  },
   "contacts": {
     "display": true,
     "items": [
       { "label": "Mail", "url": "mailto:radaprintables@outlook.com" },
       { "label": "Messenger", "url": "https://www.messenger.com" }
-    ]
-  },
-  "socials": {
-    "display": true,
-    "items": [
-      { "label": "Facebook", "url": "https://www.facebook.com/profile.php?id=100087162214726" }
     ]
   },
   "designs": {
