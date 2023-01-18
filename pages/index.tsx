@@ -13,7 +13,7 @@ export default function Home() {
       {designs.display && <Section name="Designs" items={designs.items} />}
       {gaming_profiles.display && <Section name="Gaming" items={gaming_profiles.items} />}
       {wallets.display && <Section name="Wallets" items={wallets.items} />}
-      {qna.display && <QNA {...qna} />}
+      {qna.display && <Hello {...qna} />}
     </Profile>
   )
 }
