@@ -1,7 +1,7 @@
 import { useState, useCallback } from 'react'
 import Giscus from '@giscus/react'
 
-export default function Reach me on Via GitHub!({ GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY_ID }) {
+export default function Reach me on Via GitHub({ GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY_ID }) {
   const [enableLoadComments, setEnabledLoadComments] = useState(false)
 
   const LoadComments = useCallback(() => {
