@@ -51,7 +51,7 @@
     ]
   },
   "gaming_profiles": {
-    "display": true,
+    "display": false,
     "items": [
       { "label": "Steam", "url": "https://www.steam.com" },
       { "label": "Epic Games", "url": "https://www.epicgames.com" },
