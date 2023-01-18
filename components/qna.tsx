@@ -32,7 +32,7 @@ export default function QNA({ GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY_ID })
     <section>
       <div className="text-mono dark:text-sub-color mx-auto mb-4 flex w-1/2 items-center text-center text-stone-400">
         <hr className="dark:border-sub-color my-2 w-1/2 border-t  border-stone-300/75" />
-        <h3 className="mx-4">Q&amp;A</h3>
+        <h3 className="mx-4">Git Hub Messaging</h3>
         <hr className="dark:border-sub-color my-2 w-1/2 border-t border-stone-300/75" />
       </div>
       <div
