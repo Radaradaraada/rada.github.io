@@ -8,11 +8,11 @@ export default function Home() {
   return (
     <Profile>
       <UserInfo />
-      {contacts.display && <Section name="Contacts" items={contacts.items} />}
-      {socials.display && <Section name="Socials" items={socials.items} />}
+      {contacts.display && <Section name="Contact Me" items={contacts.items} />}
+      {socials.display && <Section name="Follow us on Facebook" items={socials.items} />}
       {designs.display && <Section name="Designs" items={designs.items} />}
       {gaming_profiles.display && <Section name="Gaming" items={gaming_profiles.items} />}
-      {wallets.display && <Section name="Payment Options" items={wallets.items} />}
+      {wallets.display && <Section name="Payments" items={wallets.items} />}
       {qna.display && <QNA {...qna} />}
     </Profile>
   )
