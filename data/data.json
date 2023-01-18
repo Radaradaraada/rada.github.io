@@ -43,8 +43,8 @@
   "wallets": {
     "display": true,
     "items": [
-      { "label": "Paypal", "url": "https://www.paypal.com" },
-      { "label": "Cashapp", "url": "https://www.cashapp.com" }
+      { "label": "Paypal", "url": "paypal.me/radapc" },
+      { "label": "Cashapp", "url": "cash.app/$DavidOlveraII" }
     ]
   },
   "gaming_profiles": {
