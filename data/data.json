@@ -33,7 +33,7 @@
     ]
   },
   "designs": {
-    "display": true,
+    "display": false,
     "items": [
       { "label": "Behance", "url": "https://www.behance.com" },
       { "label": "Dribble", "url": "https://www.dribble.com" },
@@ -44,10 +44,7 @@
     "display": true,
     "items": [
       { "label": "Paypal", "url": "https://www.paypal.com" },
-      { "label": "Venmo", "url": "https://www.venmo.com" },
-      { "label": "Cashapp", "url": "https://www.cashapp.com" },
-      { "label": "Bitcoin", "url": "https://www.bitcoin.com" },
-      { "label": "Ethereum", "url": "https://www.ethereum.com" }
+      { "label": "Cashapp", "url": "https://www.cashapp.com" }
     ]
   },
   "gaming_profiles": {
