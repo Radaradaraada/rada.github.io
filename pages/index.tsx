@@ -9,7 +9,7 @@ export default function Home() {
     <Profile>
       <UserInfo />
       {contacts.display && <Section name="Contact Me" items={contacts.items} />}
-      {socials.display && <Section name="Follow us on Facebook" items={socials.items} />}
+      {socials.display && <Section name="Socials" items={socials.items} />}
       {designs.display && <Section name="Designs" items={designs.items} />}
       {gaming_profiles.display && <Section name="Gaming" items={gaming_profiles.items} />}
       {wallets.display && <Section name="Payments" items={wallets.items} />}
