@@ -12,8 +12,8 @@ export default function Home() {
       {socials.display && <Section name="Socials" items={socials.items} />}
       {designs.display && <Section name="Designs" items={designs.items} />}
       {gaming_profiles.display && <Section name="Gaming" items={gaming_profiles.items} />}
-      {wallets.display && <Section name="Payment" items={wallets.items} />}
-      {qna.display && <QNA {...qna} />}
+      {wallets.display && <Section name="Payment Options" items={wallets.items} />}
+      {qna.display && <Section name="Message me on Github!" QNA {...qna} />}
     </Profile>
   )
 }
