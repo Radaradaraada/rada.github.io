@@ -62,8 +62,20 @@
   },
   "qna": {
     "display": true,
-    "GISCUS_REPO":"https://github.com/giscus/giscus.git",
-    "GISCUS_REPO_ID":"R_kgDOIy5mLw",
-    "GISCUS_CATEGORY_ID":"DIC_kwDOIy5mL84CTqOB"
+<script src="https://giscus.app/client.js"
+        data-repo="Radaradaraada/rada.github.io"
+        data-repo-id="R_kgDOIy5mLw"
+        data-category="General"
+        data-category-id="DIC_kwDOIy5mL84CTqOB"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark_tritanopia"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
   }
 }
