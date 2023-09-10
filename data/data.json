@@ -43,7 +43,7 @@
   "wallets": {
     "display": true,
     "items": [
-      { "label": "Paypal", "url": "https://paypal.me/radapc" },
+      { "label": "Paypal", "url": "https://paypal.me/radapc?country.x=US&locale.x=en_US" },
       { "label": "Cashapp", "url": "https://cash.app/$DavidOlveraII" }
     ]
   },
